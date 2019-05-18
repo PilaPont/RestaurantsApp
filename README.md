@@ -1,0 +1,1 @@
+RestaurantsApp, for educational purpose.
