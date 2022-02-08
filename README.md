@@ -1,1 +1,1 @@
-RestaurantsApp, for educational purpose.
+# RestaurantsApp with Django
